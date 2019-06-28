@@ -34,6 +34,7 @@
 
 ## 参考资料
 * [nodejs邮件发送就是这么简单](https://blog.csdn.net/bjzhaoxiao/article/details/80903354)
+* [echarts文档地址](https://echarts.baidu.com/tutorial.html#5%20%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8B%20ECharts)
 
 
 ## 成员项目地址
